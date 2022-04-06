@@ -1,0 +1,51 @@
+id: P500B7278
+initial_creation_type: input
+source_metadata:
+  work_id: http://purl.bdrc.io/resource/WA21888
+  instance_id: http://purl.bdrc.io/resource/IE21888
+  collection_id: http://purl.bdrc.io/resource/PR0ET006
+  language_id: http://purl.bdrc.io/resource/LangBo
+  title:
+    bo:
+    - གཏེར་ཆོས། ཀུན་བཟང་བདེ་སྐྱོང་དབང་མོ།
+  alt_title:
+    en-x-mixed:
+    - the collected revelations (gter chos) of se ra mkha' 'gro bde chen rdo rje
+  author: http://purl.bdrc.io/resource/P742
+  publisher: PalriParkhang
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  restrictedInChina: false
+  volumes:
+    3901a2e8fbcd4bc883c32164365ae5c6:
+      title: ༣༢༥༽ཆོས་ཉིད་མཁའ་འགྲོའི་གསང་མཛོད་ལས༔དབང་ཆེན་སྒྲུབ་ཐབས་རྒྱུན་ཁྱེར་ཟབ་མོ་བཞུགས་སོ༔ན་མོ་པདྨ་ཀཱ་ར་ཡེ༔རང་རིག་གསང་བའི་ལྷ་ལ་འདུད༔མ་འོངས་
+      volume_number: 1
+      base_file: UT21888_001_0033.txt
+      reference: http://purl.bdrc.io/resource/VL99C0B8CE757E9C7A
+      image_group: null
+      quality: null
+    f7e1733005814795a5e08dad414e325c:
+      title: ༤༢༧༽བཅོམ་ལྡན་དབང་གི་ལྷ་མོས་རྗེས་སུ་འཛིན་པའི་སྨོན་ལམ་ཕན་བདེའི་འབྱུང་གནས་བཞུགས༔ཧོཿམཆོག་གསུམ་རྩ་གསུམ་ཀུན་འདུས་བཅོམ་ལྡན་མ༔དོན་དམ་ལྷན
+      volume_number: 3
+      base_file: UT21888_003_0039.txt
+      reference: http://purl.bdrc.io/resource/VL131AE1381202E1D0
+      image_group: null
+      quality: null
+    0d648135511c49a883c14fce8a382e97:
+      title: ༣༡༥༽ཆོས་ཉིད་མཁའ་འགྲོའི་གསང་མཛོད་ལས༔རྩ་གསུམ་སྤྱི་གཅེས་ལས་བཞིའི་ཐིག་ཡིག་ཨ་དརྴ་བཞུགས་སོ༔ན་མོ་གུ་རུ་དེ་ཝ་ཌཱ་ཀི་ཡཻ༔རང་རིག་རྩ་གསུམ་ལྷ་
+      volume_number: 2
+      base_file: UT21888_002_0022.txt
+      reference: http://purl.bdrc.io/resource/VL6FA31E44EAD3142D
+      image_group: null
+      quality: null
+    03a10242967145c3b623733f7c131f71:
+      title: ༢༩༡༽ཀློང་ཆེན་རབ་འབྱམས་ཡེ་ཤེས་སྒྱུ་མའི་གར།་།བདེ་ཆེན་རྒྱལ་ཀུན་འདུས་པའི་ངོ་བོ་ཉིད།་།མཚུངས་མེད་བཀའ་དྲིན་གསུམ་ལྡན་བླ་མ་རྗེ།་།འགྲོ་
+      volume_number: 4
+      base_file: UT21888_004_0018.txt
+      reference: http://purl.bdrc.io/resource/VL23BD674D95BF7BDD
+      image_group: null
+      quality: null
+  reproductionOf:
+  - http://purl.bdrc.io/resource/MW21888
+  - http://purl.bdrc.io/resource/W21888
+created_at: '2021-12-29T11:53:27.483535'
+last_modified_at: '2021-12-29T11:53:27.483545'

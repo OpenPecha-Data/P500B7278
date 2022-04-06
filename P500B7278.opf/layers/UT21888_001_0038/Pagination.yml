@@ -1,0 +1,100 @@
+id: 54e822d822854a458d0e4905ac421b51
+annotation_type: Pagination
+revision: '00001'
+annotations:
+  2b3501eb492044b8bb95335bd58db747:
+    span:
+      start: 11515
+      end: 12970
+    metadata: {}
+    page_info: null
+    imgnum: 9
+    reference: EP2B41027E9EE1A1FA
+  572c2c5da3e4461b9c644da4e2c09fe5:
+    span:
+      start: 5762
+      end: 7203
+    metadata: {}
+    page_info: null
+    imgnum: 5
+    reference: EP852D38BE66EE8BA5
+  bef463ae0d3145d0b780ab14d0e6034c:
+    span:
+      start: 4309
+      end: 5760
+    metadata: {}
+    page_info: null
+    imgnum: 4
+    reference: EP50365674E5743C8C
+  4d8100f3434a456d845193cc6176fb97:
+    span:
+      start: 2877
+      end: 4307
+    metadata: {}
+    page_info: null
+    imgnum: 3
+    reference: EPBC30B8F7B420D355
+  025588a3814c4ac7a4c8015236b89d8b:
+    span:
+      start: 14462
+      end: 14625
+    metadata: {}
+    page_info: null
+    imgnum: 12
+    reference: EP67A05EC657D04346
+  5a85a11f05614af9b1bdc04cd8c61129:
+    span:
+      start: 0
+      end: 1448
+    metadata: {}
+    page_info: null
+    imgnum: 1
+    reference: EP803D29FED68513DA
+  dc3533f26b084ffd88a24ef6a4f131a9:
+    span:
+      start: 1450
+      end: 2875
+    metadata: {}
+    page_info: null
+    imgnum: 2
+    reference: EP84A21BCF90CA2BB9
+  b9179ce3c7ca4061a0200b6d8d7fed0e:
+    span:
+      start: 12972
+      end: 14393
+    metadata: {}
+    page_info: null
+    imgnum: 10
+    reference: EPDD57FE1533BB7D28
+  299fa3bc4ce4440592fa4fba1f05a0d9:
+    span:
+      start: 7205
+      end: 8641
+    metadata: {}
+    page_info: null
+    imgnum: 6
+    reference: EP3742CDC246BA6389
+  3d4339ca1b494d90818947c579850aa2:
+    span:
+      start: 14395
+      end: 14460
+    metadata: {}
+    page_info: null
+    imgnum: 11
+    reference: EP861BD98DCA2E346B
+  538fdcdca2044bb49d10c0da5c4911f9:
+    span:
+      start: 8643
+      end: 10078
+    metadata: {}
+    page_info: null
+    imgnum: 7
+    reference: EPEBA004ACDCC013C8
+  16264bd1ec6a4f0daea1082972207e94:
+    span:
+      start: 10080
+      end: 11513
+    metadata: {}
+    page_info: null
+    imgnum: 8
+    reference: EPEDECB20331DF7363
