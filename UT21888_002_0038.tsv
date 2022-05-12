@@ -1,0 +1,632 @@
+form	lemma	POS	morph
+		
+༽		PUNCT
+ཨེ་མ་ཧོ་	ཨེ་མ་ཧོ་	INTJ
+༔		PUNCT
+རང་བྱུང་	རང་བྱུང་	NOUN
+རིག་པ་	རིག་པ་	VERB
+ཀ་དག་	ཀ་དག་	OTHER
+ཆོ་	ཆོ་	NOUN
+ཀྱི་	གི་	PART
+སྐུ་	སྐུ་	NOUN
+༔		PUNCT
+རང་	རང་	PRON
+མདངས་	མདངས་	NOUN
+མ་	མ་	PART
+འགག་	འགག་	VERB
+ས་	གིས་	PART
+འོད་གསལ་	འོད་གསལ་	NOUN
+ལོངས་སྤྱོད་	ལོངས་སྤྱོད་	NOUN
+རྫོགས་	རྫོགས་	VERB
+༔		PUNCT
+ཐུགས་རྗེ་	ཐུགས་རྗེ་	NOUN
+ཀུན་ཁྱབ་	ཀུན་ཁྱབ་	OTHER
+གང་	གང་	NO_POS
+འདུལ་	འདུལ་	NO_POS
+སྤྲུལ་	སྤྲུལ་	VERB
+པའིསྐུ་		NON_WORD
+༔		PUNCT
+སྐུ་གསུམ་	སྐུ་གསུམ་	OTHER
+དབྱེ་	དབྱེ་	VERB
+ར་	ལ་	PART
+མེད་	མེད་	VERB
+པདྨ་	པདྨ་	NOUN
+ལས་འབྲེལ་	ལས་འབྲེལ་	NOUN
+ལ་	ལ་	PART
+༔		PUNCT
+གསོལ་བ་	གསོལ་བ་	VERB
+འདེབས་	འདེབས་	VERB
+སོ་	གོ་	PART
+བདག་	བདག་	PRON
+རྒྱུད་	རྒྱུད་	NOUN
+བྱིན་	བྱིན་	VERB
+གྱིས་	གིས་	PART
+རློབས་	རློབས་	VERB
+༔		PUNCT
+སྐུ་གསུམ་	སྐུ་གསུམ་	OTHER
+དབྱེ་	དབྱེ་	VERB
+ར་	ལ་	PART
+མེད་རྟོགས་པ་	མེད་རྟོགས་པ་	NO_POS
+ར་	ལ་	PART
+མཛད་	མཛད་	VERB
+དུ་	ལ་	PART
+གསོལ་	གསོལ་	VERB
+༔		PUNCT
+སུ་	ལ་	PART
+ཁ་	ཁ་	PRON
+བཛྲ་	བཛྲ་	NO_POS
+གྱིས་	གིས་	PART
+སོ་	གོ་	PART
+།།		PUNCT
+ཨེ་མ་ཧོ་	ཨེ་མ་ཧོ་	INTJ
+༔		PUNCT
+དུས་གསུམ་	དུས་གསུམ་	OTHER
+རྒྱལ་བ་	རྒྱལ་བ་	NOUN
+འི་	གི་	PART
+ཡུམ་	ཡུམ་	NOUN
+གྱུར་	གྱུར་	VERB
+མཚོ་	མཚོ་	NOUN
+རྒྱལ་མ་	རྒྱལ་མ་	OTHER
+༔		PUNCT
+གསུང་	གསུང་	VERB
+སྤྲུལ་	སྤྲུལ་	VERB
+བདེ་ཆེན་	བདེ་ཆེན་	NOUN
+བདེ་བ་	བདེ་བ་	VERB
+འི་	གི་	PART
+རྡོ་རྗེ་	རྡོ་རྗེ་	NOUN
+ལ་	ལ་	PART
+༔		PUNCT
+གསོལ་བ་	གསོལ་བ་	VERB
+འདེབས་	འདེབས་	VERB
+སོ་	གོ་	PART
+ཐུགས་རྗེ་	ཐུགས་རྗེ་	NOUN
+ས་	གིས་	PART
+བཟུང་	བཟུང་	NO_POS
+དུ་	ལ་	PART
+གསོལ་	གསོལ་	VERB
+༔		PUNCT
+བསམ་པ་	བསམ་པ་	VERB
+འི་	གི་	PART
+དོན་	དོན་	NOUN
+ལ་བ་	ལ་བ་	NOUN
+ར་	ལ་	PART
+ཆད་	ཆད་	VERB
+མི་	མི་	PART
+འབྱུང་	འབྱུང་	VERB
+ཞིང་	ཅིང་	PART
+༔		PUNCT
+བླ་མ་	བླ་མ་	NOUN
+འི་	གི་	PART
+བཀའ་	བཀའ་	NOUN
+བཞིན་	བཞིན་	NOUN
+ཐུགས་དགོངས་	ཐུགས་དགོངས་	NOUN
+རབ་	རབ་	ADV
+རྫོགས་	རྫོགས་	VERB
+ན་	ནས་	PART
+༔		PUNCT
+བསྟན་པ་	བསྟན་པ་	VERB
+ཕྱོགས་	ཕྱོགས་	NOUN
+བཅུ་		
+ད་	ད་	NOUN
+ཞིང་	ཅིང་	PART
+རྒྱས་པ་	རྒྱས་པ་	VERB
+དང་	དང་	NO_POS
+༔		PUNCT
+རང་གཞན་	རང་གཞན་	NOUN
+དོན་	དོན་	NOUN
+གཉིས་	གཉིས་	NUM
+འགྲུབ་པ་	འགྲུབ་པ་	VERB
+ར་	ལ་	PART
+བྱིན་	བྱིན་	VERB
+གྱིས་	གིས་	PART
+རློབས་	རློབས་	VERB
+༔		PUNCT
+ཅེས་པ་	ཅེས་པ་	PART
+འདི་	འདི་	DET
+ཡང་	ཀྱང་	PART
+མཚམས་པ་	མཚམས་པ་	NOUN
+ལྷུན་གྲུབ་	ལྷུན་གྲུབ་	OTHER
+རིག་འཛིན་	རིག་འཛིན་	OTHER
+སོགས་	སོགས་	DET
+ཀྱིས་	གིས་	PART
+བསྐུལ་	བསྐུལ་	VERB
+ངོ་	ངོ་	PART
+ར་	ལ་	PART
+སུ་	ལ་	PART
+ཁ་	ཁ་	PRON
+བཛྲ་	བཛྲ་	NO_POS
+རྩལ་	རྩལ་	NOUN
+གྱིས་	གིས་	PART
+བྲིས་པ་	བྲིས་པ་	VERB
+འོ་	གོ་	PART
+།		PUNCT
+ཨེ་མ་ཧོ་	ཨེ་མ་ཧོ་	INTJ
+༔		PUNCT
+སྐུ་གསུམ་	སྐུ་གསུམ་	OTHER
+མཁའ་འགྲོ་	མཁའ་འགྲོ་	NOUN
+འི་	གི་	PART
+གཙོ་	གཙོ་	NOUN
+མོ་	གོ་	PART
+ཝ་	ཝ་	OTHER
+ར་	ར་	ADP
+ཧི་	ཧི་	NO_POS
+༔		PUNCT
+ཡེ་ཤེས་	ཡེ་ཤེས་	NOUN
+སྒྱུ་མ་	སྒྱུ་མ་	NOUN
+འི་	གི་	PART
+སྐུ་	སྐུ་	NOUN
+སྣང་	སྣང་	VERB
+རིག་པ་	རིག་པ་	VERB
+འཛིན་	འཛིན་	VERB
+༔		PUNCT
+བདེ་ཆེན་	བདེ་ཆེན་	NOUN
+འགྱུར་མེད་	འགྱུར་མེད་	NOUN
+བདེ་བ་	བདེ་བ་	VERB
+འི་	གི་	PART
+རྡོ་རྗེ་	རྡོ་རྗེ་	NOUN
+ལ་	ལ་	PART
+༔		PUNCT
+གསོལ་བ་	གསོལ་བ་	VERB
+འདེབས་	འདེབས་	VERB
+སོ་	གོ་	PART
+ཐུགས་རྗེ་	ཐུགས་རྗེ་	NOUN
+ས་	གིས་	PART
+བཟུང་	བཟུང་	NO_POS
+དུ་	ལ་	PART
+གསོལ་	གསོལ་	VERB
+༔		PUNCT
+འདི་	འདི་	DET
+ཕྱི་	ཕྱི་	NOUN
+		
+༽		PUNCT
+བ་	བ་	NOUN
+གསུམ་	གསུམ་	NUM
+འབྲལ་	འབྲལ་	NO_POS
+མེད་	མེད་	VERB
+བྱིན་	བྱིན་	VERB
+གྱིས་	གིས་	PART
+རློབས་	རློབས་	VERB
+༔		PUNCT
+ཅེས་	ཅེས་	PART
+དད་	དད་	VERB
+ལྡན་	ལྡན་	VERB
+དཀར་མོ་	དཀར་མོ་	ADJ
+ས་	གིས་	PART
+ནན་	ནན་	NOUN
+ཆེ་	ཆེ་	VERB
+ར་	ལ་	PART
+བསྐུལ་	བསྐུལ་	VERB
+ངོ་	ངོ་	PART
+ར་	ལ་	PART
+སུ་	ལ་	PART
+ཁ་	ཁ་	PRON
+འི་	གི་	PART
+མིང་	མིང་	NOUN
+གིས་	གིས་	PART
+བྲིས་པ་	བྲིས་པ་	VERB
+འོ་	གོ་	PART
+།།		PUNCT
+ཆོས་ཉིད་	ཆོས་ཉིད་	NOUN
+མཁའ་འགྲོ་	མཁའ་འགྲོ་	NOUN
+འི་	གི་	PART
+གསང་མཛོད་	གསང་མཛོད་	OTHER
+ལ་	ལ་	ADP
+ས་	གིས་	PART
+༔		PUNCT
+གསོལ་འདེབས་	གསོལ་འདེབས་	NOUN
+བསམ་པ་	བསམ་པ་	VERB
+ལྷུན་གྲུབ་	ལྷུན་གྲུབ་	OTHER
+བཞུགས་	བཞུགས་	VERB
+སོ་	གོ་	PART
+༔		PUNCT
+ཨེ་མ་	ཨེ་མ་	INTJ
+ཧོཿ་		NON_WORD
+རྒྱལ་	རྒྱལ་	VERB
+ཀུན་	ཀུན་	DET
+ཕྲིན་ལས་	ཕྲིན་ལས་	NOUN
+གཅིག་	གཅིག་	NUM
+བསྡུ་	བསྡུ་	VERB
+པདྨ་	པདྨ་	NOUN
+འབྱུང་	འབྱུང་	VERB
+༔		PUNCT
+དབྱིངས་	དབྱིངས་	NOUN
+ཡུམ་	ཡུམ་	NOUN
+ལྷན་སྐྱེས་	ལྷན་སྐྱེས་	ADJ
+བདེ་ཆེན་	བདེ་ཆེན་	NOUN
+མཚོ་	མཚོ་	NOUN
+རྒྱལ་མ་	རྒྱལ་མ་	OTHER
+ར་	ལ་	PART
+༔		PUNCT
+གསོལ་བ་	གསོལ་བ་	VERB
+འདེབས་	འདེབས་	VERB
+སོ་	གོ་	PART
+བྱིན་རླབས་	བྱིན་རླབས་	NOUN
+དངོས་གྲུབ་	དངོས་གྲུབ་	NOUN
+སྩོལ་	སྩོལ་	VERB
+༔		PUNCT
+ཕྱི་	ཕྱི་	NOUN
+ནང་	ནང་	NOUN
+གསང་བ་	གསང་བ་	VERB
+འི་	གི་	PART
+བར་ཆད་	བར་ཆད་	NOUN
+ཞི་བ་	ཞི་བ་	VERB
+དང་	དང་	NO_POS
+༔		PUNCT
+བསམ་པ་	བསམ་པ་	VERB
+ལྷུན་	ལྷུན་	NOUN
+གྱིས་	གིས་	PART
+འགྲུབ་པ་	འགྲུབ་པ་	VERB
+ར་	ལ་	PART
+མཛད་	མཛད་	VERB
+དུ་	ལ་	PART
+གསོལ་	གསོལ་	VERB
+༔		PUNCT
+ཨོཾ་	ཨོཾ་	X
+ཨཱཿ་		NON_WORD
+ཧྃའུ་		NON_WORD
+བཛྲ་	བཛྲ་	NO_POS
+མ་	མ་	PART
+ཧཱ་		NON_WORD
+གུ་རུ་	གུ་རུ་	PROPN
+ཛྙཱ་ན་	ཛྙཱ་ན་	PROPN
+སརྦ་	སརྦ་	NO_POS
+སིདྡྷི་		NON_WORD
+ཕ་ལ་	ཕ་ལ་	NO_POS
+ཧཱུྃ་		NON_WORD
+༔		PUNCT
+འདི་	འདི་	DET
+ལ་	ལ་	PART
+རྟག་	རྟག་	VERB
+ཏུ་	ལ་	PART
+བརྩོན་	བརྩོན་	VERB
+གྱུར་	གྱུར་	VERB
+ན་	ལ་	PART
+༔		PUNCT
+གང་	གང་	NO_POS
+བསམ་	བསམ་	NOUN
+ཡིད་བཞིན་	ཡིད་བཞིན་	OTHER
+འགྲུབ་པ་	འགྲུབ་པ་	VERB
+ར་	ལ་	PART
+ངེས་	ངེས་	VERB
+༔		PUNCT
+བདེན་རྫུན་	བདེན་རྫུན་	NOUN
+ལག་	ལག་	NOUN
+ཏུ་	ལ་	PART
+ལོངས་	ལོངས་	VERB
+དང་	དང་	NO_POS
+གསལ་	གསལ་	VERB
+༔		PUNCT
+ས་	ས་	ADP
+མ་	མ་	PART
+ཡ་	ཡ་	NOUN
+༔		PUNCT
+ཅེས་པ་	ཅེས་པ་	PART
+འང་	ཀྱང་	PART
+ཁམས་པ་	ཁམས་པ་	PROPN
+གཏེར་ཆེན་	གཏེར་ཆེན་	OTHER
+རིན་པོ་ཆེ་	རིན་པོ་ཆེ་	ADJ
+ན་	ནས་	PART
+ད་	ད་	NOUN
+བཅའ་	བཅའ་	VERB
+བཀའ་	བཀའ་	NOUN
+བསྐུལ་	བསྐུལ་	VERB
+ཕེབས་	ཕེབས་	NO_POS
+ཚེ་	ཚེ་	NOUN
+མ་	མ་	PART
+ལྡོག་	ལྡོག་	VERB
+ཙམ་	ཙམ་	DET
+དུ་	ལ་	PART
+སྙོམས་	སྙོམས་	VERB
+ལས་པ་	ལས་པ་	VERB
+སུ་	ལ་	PART
+ཁ་	ཁ་	PRON
+བཛྲ་	བཛྲ་	NO_POS
+ན་	ནས་	PART
+བྲིས་པ་	བྲིས་པ་	VERB
+འོ་	གོ་	PART
+།།		PUNCT
+ཨེ་མ་	ཨེ་མ་	INTJ
+ཧོཿ་		NON_WORD
+ཆོས་སྐུ་	ཆོས་སྐུ་	NOUN
+ཡུམ་	ཡུམ་	NOUN
+ཆེན་	ཆེན་	NO_POS
+ཀུན་བཟང་	ཀུན་བཟང་	ADJ
+མོ་	གོ་	PART
+༔		PUNCT
+ལོངས་སྐུ་	ལོངས་སྐུ་	NOUN
+འགག་	འགག་	VERB
+ས་	གིས་	PART
+མེད་	མེད་	VERB
+ཝ་	ཝ་	OTHER
+ར་	ར་	ADP
+ཧི་	ཧི་	NO_POS
+༔		PUNCT
+སྤྲུལ་སྐུ་	སྤྲུལ་སྐུ་	NOUN
+ཡེ་ཤེས་	ཡེ་ཤེས་	NOUN
+མཚོ་	མཚོ་	NOUN
+རྒྱལ་མ་	རྒྱལ་མ་	OTHER
+༔		PUNCT
+སྐུ་གསུམ་	སྐུ་གསུམ་	OTHER
+དབྱེ་	དབྱེ་	VERB
+ར་	ལ་	PART
+མེད་	མེད་	VERB
+མཁའ་འགྲོ་	མཁའ་འགྲོ་	NOUN
+འི་	གི་	PART
+ག་	ག་	NOUN
+༔		PUNCT
+རྣལ་འབྱོར་	རྣལ་འབྱོར་	NOUN
+བདེ་བ་	བདེ་བ་	VERB
+འི་	གི་	PART
+རྡོ་རྗེ་	རྡོ་རྗེ་	NOUN
+ལ་	ལ་	PART
+༔		PUNCT
+གསོལ་བ་	གསོལ་བ་	VERB
+འདེབས་	འདེབས་	VERB
+སོ་	གོ་	PART
+བྱིན་	བྱིན་	VERB
+གྱིས་	གིས་	PART
+རློབས་	རློབས་	VERB
+༔		PUNCT
+འཇིགས་པ་	འཇིགས་པ་	VERB
+ཀུན་	ཀུན་	DET
+སྐྱོབས་	སྐྱོབས་	VERB
+ནད་གདོན་	ནད་གདོན་	OTHER
+ཞི་	ཞི་	VERB
+༔		PUNCT
+ཚེ་	ཚེ་	NOUN
+དང་	དང་	NO_POS
+བསོད་ནམས་	བསོད་ནམས་	NOUN
+འཕེལ་བ་	འཕེལ་བ་	VERB
+		
+༽		PUNCT
+བ་	པ་	PART
+དང་	དང་	NO_POS
+༔		PUNCT
+འདི་	འདི་	DET
+ཕྱི་བ་	ཕྱི་བ་	OTHER
+ར་	ལ་	PART
+གསུམ་	གསུམ་	NUM
+ཐུགས་རྗེ་	ཐུགས་རྗེ་	NOUN
+ས་	གིས་	PART
+ཟུངས་	ཟུངས་	VERB
+༔		PUNCT
+ཨོཾ་	ཨོཾ་	X
+ཛྙཱ་ན་	ཛྙཱ་ན་	PROPN
+ཌཱ་ཀི་	ཌཱ་ཀི་	NOUN
+ནི་	ནི་	NO_POS
+སརྦ་	སརྦ་	NO_POS
+སིདྡྷི་		NON_WORD
+ཕ་ལ་	ཕ་ལ་	NO_POS
+ཧཱུྃ་		NON_WORD
+༔		PUNCT
+ཞེས་་	ཞེས་པ་	PART
+ས་	གིས་	PART
+རྒྱུན་	རྒྱུན་	NOUN
+དུ་	ལ་	PART
+གསོལ་བ་	གསོལ་བ་	VERB
+ཐོབ་	ཐོབ་	VERB
+༔		PUNCT
+དེ་	སྟེ་	PART
+ཡི་	གིས་	PART
+མཁའ་འགྲོ་	མཁའ་འགྲོ་	NOUN
+ས་	གིས་	PART
+བྱིན་	བྱིན་	VERB
+བརླབ་	བརླབ་	NO_POS
+འགྱུར་	འགྱུར་	VERB
+༔		PUNCT
+ས་	ས་	ADP
+མ་	མ་	PART
+ཡ་	ཡ་	NOUN
+༔		PUNCT
+ཞེས་་	ཞེས་པ་	PART
+ཡང་	ཀྱང་	PART
+ཕུན་ཚོགས་	ཕུན་ཚོགས་	ADJ
+བསམ་	བསམ་	NOUN
+འགྲུབ་	འགྲུབ་	VERB
+ངོ་	ངོ་	PART
+ར་	ལ་	PART
+།		PUNCT
+སུ་	ལ་	PART
+ཁ་	ཁ་	PRON
+བཛྲ་	བཛྲ་	NO_POS
+གྱིས་	གིས་	PART
+བྲིས་པ་	བྲིས་པ་	VERB
+འོ་	གོ་	PART
+།།		PUNCT
+སྐུ་གསུམ་	སྐུ་གསུམ་	OTHER
+མཁའ་འགྲོ་	མཁའ་འགྲོ་	NOUN
+འི་	གི་	PART
+གཙོ་	གཙོ་	NOUN
+མོ་	གོ་	PART
+ཝ་	ཝ་	OTHER
+ར་	ར་	ADP
+ཧི་	ཧི་	NO_POS
+༔		PUNCT
+ཡེ་ཤེས་	ཡེ་ཤེས་	NOUN
+སྒྱུ་མ་	སྒྱུ་མ་	NOUN
+འི་	གི་	PART
+སྐུ་	སྐུ་	NOUN
+བཞེངས་	བཞེངས་	NO_POS
+རྣལ་འབྱོར་	རྣལ་འབྱོར་	NOUN
+མ་	མ་	PART
+༔		PUNCT
+ཀུན་བཟང་	ཀུན་བཟང་	ADJ
+ཆོས་ཉིད་	ཆོས་ཉིད་	NOUN
+དབང་	དབང་	NOUN
+མོ་	མོ་	PRON
+ར་	ལ་	PART
+གསོལ་བ་	གསོལ་བ་	VERB
+འདེབས་	འདེབས་	VERB
+༔		PUNCT
+འདི་	འདི་	DET
+ཕྱི་བ་	ཕྱི་བ་	OTHER
+ར་	ལ་	PART
+གསུམ་	གསུམ་	NUM
+འབྲལ་	འབྲལ་	NO_POS
+མེད་	མེད་	VERB
+རྗེས་བཟུང་	རྗེས་བཟུང་	NO_POS
+སྟེ་	སྟེ་	PART
+༔		PUNCT
+འོད་གསལ་	འོད་གསལ་	NOUN
+གནས་ལུགས་	གནས་ལུགས་	VERB
+རྟོགས་པ་	རྟོགས་པ་	VERB
+མཐ་	མཐའ་	NOUN
+ར་	ལ་	PART
+ཕྱིན་	ཕྱིན་	VERB
+ན་	ནས་	PART
+༔		PUNCT
+ཀ་དག་	ཀ་དག་	OTHER
+ཀུན་	ཀུན་	DET
+ཏུ་	ལ་	PART
+བཟང་པོ་	བཟང་པོ་	ADJ
+ར་	ལ་	PART
+བྱང་ཆུབ་	བྱང་ཆུབ་	NOUN
+ཤོག་	ཤོག་	VERB
+༔		PUNCT
+ཅེས་པ་	ཅེས་པ་	PART
+འང་	ཀྱང་	PART
+དད་	དད་	VERB
+ལྡན་	ལྡན་	VERB
+གསུང་རབ་	གསུང་རབ་	NOUN
+ངོ་	ངོ་	PART
+ར་	ལ་	PART
+བདེ་བ་	བདེ་བ་	VERB
+འི་	གི་	PART
+རྡོ་རྗེ་	རྡོ་རྗེ་	NOUN
+ས་	གིས་	PART
+བྲིས་པ་	བྲིས་པ་	VERB
+འོ་	གོ་	PART
+།།		PUNCT
+སྐབས་	སྐབས་	NOUN
+སུ་	ལ་	PART
+བཟའ་བཅའ་	བཟའ་བཅའ་	NO_POS
+ལོངས་སྤྱོད་	ལོངས་སྤྱོད་	NOUN
+ཅི་	ཅི་	NO_POS
+འབྱོར་	འབྱོར་	VERB
+བཤམས་	བཤམས་	NO_POS
+ལ་	ལ་	PART
+༔		PUNCT
+ཧྲཱིཿ་		NON_WORD
+སྣང་སྲིད་	སྣང་སྲིད་	NOUN
+དག་པ་	དག་པ་	VERB
+རབ་འབྱམས་	རབ་འབྱམས་	ADJ
+ཀློང་	ཀློང་	NOUN
+༔		PUNCT
+འཁོར་འདས་	འཁོར་འདས་	NOUN
+ཡོངས་	ཡོངས་	DET
+དག་	དག་	DET
+མཆོད་པ་	མཆོད་པ་	VERB
+འི་	གི་	PART
+རྫ་	རྫ་	NOUN
+༔		PUNCT
+ཕྱི་	ཕྱི་	NOUN
+ནང་	ནང་	NOUN
+གསང་བ་	གསང་བ་	VERB
+འི་	གི་	PART
+སྤྲིན་ཆེན་པོ་	སྤྲིན་ཆེན་པོ་	OTHER
+༔		PUNCT
+ཀུན་	ཀུན་	DET
+ཏུ་	ལ་	PART
+བཟང་པོ་	བཟང་པོ་	ADJ
+འི་	གི་	PART
+རང་བཞིན་	རང་བཞིན་	NOUN
+གྱུར་	གྱུར་	VERB
+༔		PUNCT
+ཨོཾ་	ཨོཾ་	X
+ཨཱཿ་		NON_WORD
+ཧཱུྃ་		NON_WORD
+༔		PUNCT
+བླ་མ་	བླ་མ་	NOUN
+རིག་འཛིན་	རིག་འཛིན་	OTHER
+ལྷ་ཚོགས་	ལྷ་ཚོགས་	NOUN
+དང་	དང་	NO_POS
+༔		PUNCT
+གནས་ཡུལ་	གནས་ཡུལ་	NO_POS
+ཞིང་སྐྱོང་	ཞིང་སྐྱོང་	NOUN
+ཌཱ་ཀི་	ཌཱ་ཀི་	NOUN
+འི་	གི་	PART
+ཚོགས་	ཚོགས་	NOUN
+༔		PUNCT
+དམ་ཅན་	དམ་ཅན་	NOUN
+གཏེར་བདག་	གཏེར་བདག་	NO_POS
+མ་	མ་	PART
+ལུས་	ལུས་	NOUN
+ལ་	ལ་	PART
+༔		PUNCT
+ལོངས་སྤྱོད་	ལོངས་སྤྱོད་	NOUN
+ཚོགས་	ཚོགས་	NOUN
+ཀྱི་	གི་	PART
+མཆོད་པ་	མཆོད་པ་	VERB
+འབུལ་	འབུལ་	NO_POS
+༔		PUNCT
+རིག་འཛིན་	རིག་འཛིན་	OTHER
+མཁའ་འགྲོ་	མཁའ་འགྲོ་	NOUN
+འི་	གི་	PART
+ཐུགས་དམ་	ཐུགས་དམ་	NOUN
+བསྐངས་	བསྐངས་	NO_POS
+༔		PUNCT
+ཉམས་	ཉམས་	NOUN
+		
+༽		PUNCT
+ཆགས་	ཆགས་	VERB
+དག་	དག་	DET
+ན་	ནས་	PART
+དངོས་གྲུབ་	དངོས་གྲུབ་	NOUN
+སྩོལ་	སྩོལ་	VERB
+༔		PUNCT
+ལྷག་མ་	ལྷག་མ་	NOUN
+འི་	གི་	PART
+མགྲོན་	མགྲོན་	NOUN
+ཀུན་	ཀུན་	DET
+ཚིམས་	ཚིམས་	NO_POS
+ན་	ནས་	PART
+ཀྱང་	ཀྱང་	PART
+༔		PUNCT
+བདེ་ཆེན་	བདེ་ཆེན་	NOUN
+ཡེ་ཤེས་	ཡེ་ཤེས་	NOUN
+ཀློང་	ཀློང་	NOUN
+གྲོལ་	གྲོལ་	VERB
+ཤོག་	ཤོག་	VERB
+༔		PUNCT
+ཅེས་	ཅེས་	PART
+སུ་	ལ་	PART
+ཁ་	ཁ་	PRON
+འི་	གི་	PART
+མིང་	མིང་	NOUN
+གི་	གི་	PART
+བརྫུན་	བརྫུན་	NOUN
+རི་	རི་	NOUN
+སོ་	གོ་	PART
+།།		PUNCT
+སྐྱེ་	སྐྱེ་	NOUN
+དང་	དང་	NO_POS
+ཚེ་རབས་	ཚེ་རབས་	NOUN
+ཐམས་ཅད་	ཐམས་ཅད་	DET
+དུ་	ལ་	PART
+༔		PUNCT
+ཡེ་ཤེས་	ཡེ་ཤེས་	NOUN
+མཁའ་འགྲོ་	མཁའ་འགྲོ་	NOUN
+ས་	གིས་	PART
+རྗེས་བཟུང་	རྗེས་བཟུང་	NO_POS
+ན་	ནས་	PART
+༔		PUNCT
+འོག་མིན་	འོག་མིན་	PROPN
+དག་པ་	དག་པ་	VERB
+འི་	གི་	PART
+ཞིང་ཁམས་	ཞིང་ཁམས་	NOUN
+སུ་	ལ་	PART
+༔		PUNCT
+བདེ་ཆེན་	བདེ་ཆེན་	NOUN
+དཔལ་	དཔལ་	OTHER
+ལ་	ལ་	PART
+སྤྱོད་པ་	སྤྱོད་པ་	VERB
+ར་	ལ་	PART
+ཤོག་	ཤོག་	VERB
+༔		PUNCT
+སུ་	ལ་	PART
+ཁ་	ཁ་	PRON
+འི་	གི་	PART
+མིང་	མིང་	NOUN
+གིས་	གིས་	PART
+སོ་	གོ་	PART
+།།		PUNCT
